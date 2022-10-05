@@ -1,1 +1,1 @@
-# pariAssignment
+# pairAssignment
